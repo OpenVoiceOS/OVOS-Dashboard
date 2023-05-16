@@ -1,4 +1,7 @@
-# OVOS Dashboard Application
+# DEPRECATED - OVOS Dashboard Application
+
+This repository is no longer maintained by OpenVoiceOS
+________________
 
 # Installation & Startup Steps
 
